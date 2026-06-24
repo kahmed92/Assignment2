@@ -1,0 +1,8 @@
+{
+  "name": "Snake Game Pro",
+  "description": "Sleek, dark-themed HTML5 Canvas snake arcade game with customizable skins and pro audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
